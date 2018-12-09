@@ -1,0 +1,21 @@
+---
+layout: post
+title:  "PrellOne"
+date:   2018-12-09 12:01:02 +0100
+categories: projects
+---
+![PrellOne Logo](/images/prellone.png?raw=true "Logo")
+
+## Description
+
+As part of a project in fifth year engineering school, we had to create an application in the course Web Application and Interoperability.
+This app is called Prello, it is a project management tool inspired by Trello. We had to implement the main features of the Trello application but we also had to implement:
+- An Oauth2 server that is a protocol allowing third-party applications to access certain private resources of our API.
+- A login with LDAP allowing Polytech Montpellier users to connect with their Polytech credentials.
+
+## Technologies 
+
+We made this project with a SOFEA architecture and we used the following technologies:
+- <img src="https://simpleicons.org/icons/node-dot-js.svg" alt="nodejs" style="width:20px;"/> Node.js and Express.js
+- <img src="https://simpleicons.org/icons/react.svg" alt="nodejs" style="width:20px;"/> ReactJs
+- <img src="https://simpleicons.org/icons/redux.svg" alt="nodejs" style="width:20px;"/> Redux
