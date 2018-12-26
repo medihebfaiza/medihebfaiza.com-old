@@ -4,18 +4,47 @@ title:  "PrellOne"
 date:   2018-12-09 12:01:02 +0100
 categories: projects
 ---
-![PrellOne Logo](/images/prellone.png?raw=true "Logo")
+![PrellOne Logo](/images/prellone/prellone.png?raw=true "Logo")
 
 ## Description
 
 As part of a project in fifth year engineering school, we had to create an application in the course Web Application and Interoperability.
 This app is called Prello, it is a project management tool inspired by Trello. We had to implement the main features of the Trello application but we also had to implement:
+
 - An Oauth2 server that is a protocol allowing third-party applications to access certain private resources of our API.
 - A login with LDAP allowing Polytech Montpellier users to connect with their Polytech credentials.
+
+## Features
+
+### LDAP Login
+![LDAP Login](/images/prellone/login.png?raw=true "LDAP Login")
+
+### Drag and Drop
+![Drag and drop](/images/prellone/dnd.gif?raw=true "Drag and drop")
+
+### Adding Labels
+![Labels](/images/prellone/labels.png?raw=true "Labels")
+
+### Assigning Members
+![Assigning Members](/images/prellone/members.png?raw=true "Assigning Members")
+
+### Comments
+![Comments](/images/prellone/comments.png?raw=true "Comments")
+
+### File Attachements
+![File Attachements](/images/prellone/files.png?raw=true "File Attachements")
+
+### Toggle Done Task
+![Toggle Done Task](/images/prellone/toggle-done.gif?raw=true "Toggle Done Task")
+
+### Editing Description
+![Text editor](/images/prellone/editor.gif?raw=true "Text editor")
+
 
 ## Technologies 
 
 We made this project with a SOFEA architecture and we used the following technologies:
 - <img src="https://simpleicons.org/icons/node-dot-js.svg" alt="nodejs" style="width:20px;"/> Node.js and Express.js
-- <img src="https://simpleicons.org/icons/react.svg" alt="nodejs" style="width:20px;"/> ReactJs
-- <img src="https://simpleicons.org/icons/redux.svg" alt="nodejs" style="width:20px;"/> Redux
+- <img src="https://simpleicons.org/icons/react.svg" alt="react" style="width:20px;"/> ReactJs
+- <img src="https://simpleicons.org/icons/redux.svg" alt="redux" style="width:20px;"/> Redux
+- <img src="https://simpleicons.org/icons/mongodb.svg" alt="mongodb" style="width:20px;"/> MongoDB
