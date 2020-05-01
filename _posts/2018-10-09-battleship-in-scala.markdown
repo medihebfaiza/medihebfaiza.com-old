@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Battleship in Scala"
+title:  "Battleship game in Scala"
 date:   2018-10-09 12:01:02 +0100
 categories: projects
 ---

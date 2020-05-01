@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Commandant"
+title:  "Commandant, an Alexa skill"
 date:   2018-12-01 12:01:02 +0100
 categories: projects
 ---

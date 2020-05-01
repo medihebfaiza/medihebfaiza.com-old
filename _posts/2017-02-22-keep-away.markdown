@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Keep Away"
+title:  "Keep Away, a simple security system using Raspberry Pi"
 date:   2017-02-22 12:01:02 +0100
 categories: projects
 ---

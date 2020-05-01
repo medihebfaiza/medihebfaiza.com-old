@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Chicken Cross"
+title:  "Chicken Cross, a Crossy Road like game in Java"
 date:   2017-04-28 12:01:02 +0100
 categories: projects
 ---

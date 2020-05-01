@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "PrellOne"
+title:  "PrellOne, a Trello like Project Management Tool in React"
 date:   2018-12-09 12:01:02 +0100
 categories: projects
 ---
