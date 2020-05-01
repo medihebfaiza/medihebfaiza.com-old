@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Huffman Compressor in C"
+title:  "Huffman Compressor"
+excerpt: "A file compressor using the Huffman Compression Algorithm in C."
 date:   2015-10-30 12:01:02 +0100
-categories: projects
+categories: [C]
 ---
 
 ## Description

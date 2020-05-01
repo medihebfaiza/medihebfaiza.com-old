@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Octipas Sync, a Prestashop module for synchronizing data with Odoo"
+title: "Octipas Sync"
+excerpt: "A Prestashop module for synchronizing data with Odoo."
 date:   2018-08-24 12:01:02 +0100
-categories: projects
+categories: [PHP]
 ---
 ![Octipas Logo](http://www.octipas.com/images/logo-octipas/logo-octipas.png "Logo")
 

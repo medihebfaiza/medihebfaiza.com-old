@@ -1,0 +1,64 @@
+.category-tag {
+    font-size: small; 
+    padding-top:5px;
+    padding-bottom:5px; 
+    padding-left: 8px;
+    padding-right: 8px;
+    margin-right: 5px; 
+    border-radius: 10px;
+    img {
+        vertical-align: unset;
+    }
+}
+
+.category-has-white-text {
+    color: white;
+    img {
+        filter: invert(1);
+    }
+}
+
+#Javascript {
+    background-color: #F7DF1E;
+    color: black;
+}
+#React {
+    background-color: #61DAFB;
+    color: black;
+}
+#Angular {
+    background-color: #DD0031;
+    @extend .category-has-white-text;
+}
+#Scala {
+    background-color: #DC322F;
+    @extend .category-has-white-text;
+}
+#Swift {
+    background-color: #FA7343;
+    @extend .category-has-white-text;
+}
+#Spark {
+    background-color: #E25A1C;
+    @extend .category-has-white-text;
+}
+#Cpp {
+    background-color: #00599C;
+    @extend .category-has-white-text;
+}
+#C {
+    background-color: #00599C;
+    @extend .category-has-white-text;
+}
+#Python {
+    background-color: #3776AB;
+    @extend .category-has-white-text;
+}
+#PHP {
+    background-color: #777BB4;
+    @extend .category-has-white-text;
+}
+#Java {
+    background-color: #007396;
+    @extend .category-has-white-text;
+}

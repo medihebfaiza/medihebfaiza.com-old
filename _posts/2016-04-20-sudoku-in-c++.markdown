@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Sudoku game in C++"
+title:  "Sudoku"
+excerpt: "A Sudoku game in C++."
 date:   2016-04-20 12:01:02 +0100
-categories: projects
+categories: [Cpp]
 ---
 
 ## Description

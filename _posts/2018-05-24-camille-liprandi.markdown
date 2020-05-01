@@ -1,8 +1,9 @@
 ---
 layout: post
 title:  "camille-liprandi-psychologue.fr"
+excerpt: "A website for Psychiatrist Camille Liprandi."
 date:   2018-05-24 12:01:02 +0100
-categories: projects
+categories: [Javascript,Angular]
 ---
 ![Camille Liprandi Logo](/images/camille.png?raw=true "Logo")
 

@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Mon PK et Moi, an iOS mobile app to help patients with Parkinson's disease"
+title:  "Mon PK et Moi"
+excerpt: "An iOS mobile app to help patients with Parkinson's disease."
 date:   2018-03-28 12:01:02 +0100
-categories: projects
+categories: [Swift]
 ---
 
 ## Description

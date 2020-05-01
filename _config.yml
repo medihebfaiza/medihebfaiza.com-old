@@ -16,8 +16,7 @@
 title: Mohamed Iheb Faiza
 email: fmohamediheb@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
-  Computer Science and Management 
-  Engineering Student.
+  Computer Science and Management Engineer.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "http://medihebfaiza.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username: medihebfaiza
@@ -30,6 +29,9 @@ plugins:
   - jekyll-feed
 
 port: 8080
+
+show_excerpts: true
+excerpt_separator: <!--more-->
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list

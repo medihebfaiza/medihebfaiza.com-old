@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Keep Away, a simple security system using Raspberry Pi"
+title:  "Keep Away"
+excerpt: "A simple security system using Raspberry Pi."
 date:   2017-02-22 12:01:02 +0100
-categories: projects
+categories: [C, Python]
 ---
 
 ![](https://github.com/medihebfaiza/KeepAway/blob/master/docs/Logo.png?raw=true)

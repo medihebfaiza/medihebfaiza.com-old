@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Battleship game in Scala"
+title:  "Battleship"
+excerpt: "A Battleship game in Scala."
 date:   2018-10-09 12:01:02 +0100
-categories: projects
+categories: [Scala]
 ---
 
 <img src="https://i.imgur.com/yP2GHgy.png" alt="main image"/>
