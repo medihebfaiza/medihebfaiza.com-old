@@ -3,6 +3,8 @@ layout: post
 title:  "Keep Away"
 excerpt: "A simple security system using Raspberry Pi."
 date:   2017-02-22 12:01:02 +0100
+emoji: 🗿
+github: https://github.com/medihebfaiza/keep-away
 categories: [C, Python]
 ---
 

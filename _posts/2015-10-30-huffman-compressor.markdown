@@ -3,6 +3,8 @@ layout: post
 title:  "Huffman Compressor"
 excerpt: "A file compressor using the Huffman Compression Algorithm in C."
 date:   2015-10-30 12:01:02 +0100
+emoji: 🗃
+github: https://github.com/medihebfaiza/huffman-compressor
 categories: [C]
 ---
 

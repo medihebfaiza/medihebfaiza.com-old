@@ -2,7 +2,9 @@
 layout: post
 title:  "PrellOne"
 excerpt: "A Trello like Project Management Tool in React and Redux."
-date:   2018-12-09 12:01:02 +0100
+date: 2018-12-09 12:01:02 +0100
+emoji: 📅
+github: https://github.com/medihebfaiza/prellone-client/
 categories: [Javascript, React]
 ---
 ![PrellOne Logo](/images/prellone/prellone.png?raw=true "Logo")

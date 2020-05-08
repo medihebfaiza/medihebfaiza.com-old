@@ -3,6 +3,8 @@ layout: post
 title:  "Battleship"
 excerpt: "A Battleship game in Scala."
 date:   2018-10-09 12:01:02 +0100
+emoji: 🛳
+github: https://github.com/medihebfaiza/battleship
 categories: [Scala]
 ---
 

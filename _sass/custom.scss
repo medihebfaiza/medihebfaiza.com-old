@@ -1,3 +1,56 @@
+/* Hero */
+.hero {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    align-items: center;
+    padding: 48px;
+    height: 200px;
+}
+
+.typewriter h1 {
+    font-family: monospace;
+    font-size: 1.6rem;
+    overflow: hidden; /* Ensures the content is not revealed until the animation */
+    border-right: .15em solid black; /* The typwriter cursor */
+    white-space: nowrap; /* Keeps the content on a single line */
+    margin: 0 auto; /* Gives that scrolling effect as the typing happens */
+    letter-spacing: .05em; /* Adjust as needed */
+    animation: 
+      typing 2.5s steps(30, end),
+      blink-caret .75s step-end infinite;
+}
+  
+/* The typing effect */
+@keyframes typing {
+from { width: 0 }
+to { width: 100% }
+}
+
+/* The typewriter cursor effect */
+@keyframes blink-caret {
+from, to { border-color: transparent }
+50% { border-color: black; }
+}
+
+/* send email button */
+.send-email {
+    font-family: monospace;
+    color: white;
+    background-color: black;
+    font-size: large; 
+    padding:10px; 
+    border-radius: 10px;
+    border: 2px solid black;
+    margin-left: 5px;
+    top: 50%;
+    &:hover {
+        background-color: white;
+        text-decoration: none;
+    }
+}
+
+/* Category Tag */
 .category-tag {
     font-size: small; 
     padding-top:5px;
@@ -11,7 +64,7 @@
     }
 }
 
-.category-has-white-text {
+.category-tag-has-white-text {
     color: white;
     img {
         filter: invert(1);
@@ -28,37 +81,37 @@
 }
 #Angular {
     background-color: #DD0031;
-    @extend .category-has-white-text;
+    @extend .category-tag-has-white-text;
 }
 #Scala {
     background-color: #DC322F;
-    @extend .category-has-white-text;
+    @extend .category-tag-has-white-text;
 }
 #Swift {
     background-color: #FA7343;
-    @extend .category-has-white-text;
+    @extend .category-tag-has-white-text;
 }
 #Spark {
     background-color: #E25A1C;
-    @extend .category-has-white-text;
+    @extend .category-tag-has-white-text;
 }
 #Cpp {
     background-color: #00599C;
-    @extend .category-has-white-text;
+    @extend .category-tag-has-white-text;
 }
 #C {
     background-color: #00599C;
-    @extend .category-has-white-text;
+    @extend .category-tag-has-white-text;
 }
 #Python {
     background-color: #3776AB;
-    @extend .category-has-white-text;
+    @extend .category-tag-has-white-text;
 }
 #PHP {
     background-color: #777BB4;
-    @extend .category-has-white-text;
+    @extend .category-tag-has-white-text;
 }
 #Java {
     background-color: #007396;
-    @extend .category-has-white-text;
+    @extend .category-tag-has-white-text;
 }

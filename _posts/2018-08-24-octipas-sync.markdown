@@ -3,6 +3,7 @@ layout: post
 title: "Octipas Sync"
 excerpt: "A Prestashop module for synchronizing data with Odoo."
 date:   2018-08-24 12:01:02 +0100
+emoji: 🔄
 categories: [PHP]
 ---
 ![Octipas Logo](http://www.octipas.com/images/logo-octipas/logo-octipas.png "Logo")

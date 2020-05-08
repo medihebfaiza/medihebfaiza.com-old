@@ -3,6 +3,8 @@ layout: post
 title:  "RTB Ad Click Prediction"
 excerpt: "Ad click prediction using Machine Learning with Spark."
 date:   2018-12-08 12:01:02 +0100
+emoji: 📈
+github: https://github.com/medihebfaiza/rtb-ad-click-prediction
 categories: [Scala, Spark]
 ---
 

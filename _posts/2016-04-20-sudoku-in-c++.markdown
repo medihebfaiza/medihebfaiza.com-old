@@ -3,6 +3,8 @@ layout: post
 title:  "Sudoku"
 excerpt: "A Sudoku game in C++."
 date:   2016-04-20 12:01:02 +0100
+emoji: 🕹
+github: https://github.com/medihebfaiza/sudoku
 categories: [Cpp]
 ---
 

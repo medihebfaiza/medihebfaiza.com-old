@@ -3,6 +3,8 @@ layout: post
 title:  "Mon PK et Moi"
 excerpt: "An iOS mobile app to help patients with Parkinson's disease."
 date:   2018-03-28 12:01:02 +0100
+emoji: 💊
+github: https://github.com/medihebfaiza/mon-pk-et-moi
 categories: [Swift]
 ---
 

@@ -3,6 +3,8 @@ layout: post
 title:  "Commandant"
 excerpt: "An Alexa skill that lets you control your terminal with your voice."
 date:   2018-12-01 12:01:02 +0100
+emoji: 👨‍💻
+github: https://github.com/medihebfaiza/commandant
 categories: [Javascript]
 ---
 ![Commandant Logo](/images/commandant.png?raw=true "Logo")

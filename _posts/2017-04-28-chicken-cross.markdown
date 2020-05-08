@@ -3,6 +3,8 @@ layout: post
 title:  "Chicken Cross"
 excerpt: "A Crossy Road like game in Java."
 date:   2017-04-28 12:01:02 +0100
+emoji: 🐔
+github: https://github.com/medihebfaiza/chicken-cross
 categories: [Java]
 ---
 ![](https://github.com/medihebfaiza/chicken-cross/blob/master/images/chick_01.png?raw=true)
