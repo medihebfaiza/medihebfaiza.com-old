@@ -46,7 +46,7 @@ collections:
 
 collections_dir: my_collections
 
-gems:
+plugins:
   - jekyll-font-awesome-sass
 
 font-awesome:
