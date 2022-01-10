@@ -1,0 +1,28 @@
+<div class="experience">
+  <h1><i class="fas fa-briefcase"></i> Experience</h1>
+  
+  {%- if site.experience.size > 0 -%}
+  <ul class="post-list">
+    {%- assign sorted = site.experience | sort: 'date' | reverse -%}
+    {%- for post in sorted -%}
+    <li>
+
+      <div class="experience-item">
+        <div class="experience-image">
+          <img src="{{ post.logo }}"></img>
+        </div>
+        <div class="experience-description">
+          <h2 class="experience-title">{{ post.title | escape }}</h2>
+          <span class="post-meta">
+            <i class="fas fa-calendar"></i> {{ post.period }}</br>
+            <i class="fas fa-map-marker-alt"></i> {{ post.location }}</br>
+            <i class="fas fa-building"></i> {{ post.company }}</br>
+            <i class="fas fa-stream"></i> <a href="{{ post.url | relative_url }}"> Read full description </a>
+          </span>
+        </div>
+      </div>
+    </li>
+    {%- endfor -%}
+  </ul>
+  {%- endif -%}
+</div>

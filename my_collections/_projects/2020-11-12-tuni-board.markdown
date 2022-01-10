@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "tuni-board"
-excerpt: "A Billboard like React App for Tunisian Artists based on Youtube Data"
+excerpt: "A Billboard like React App for Tunisian Artists based on Youtube Data."
 date: 2020-11-12 16:51:00 +0100
 emoji: 🏆
 github:
@@ -13,9 +13,7 @@ categories: [Javascript, React]
 ## Description
 
 Tuni-Board is a one page React App made for tracking the most popular Tunsiain Artists based on their Youtube channel data.
-
-Tuni-board is hosted on Github Pages :
-https://medihebfaiza.github.io/tuni-board/
+[Tuni-board is hosted on Github Pages.](https://medihebfaiza.github.io/tuni-board/)
 
 
 ## Technologies 

@@ -23,7 +23,7 @@ In the meantime there are only some simple commands that can be used but hope to
 
 The technologies used in this project are :
 
-- <img src="https://simpleicons.org/icons/node-dot-js.svg" alt="nodejs" style="width:20px;"/> NodeJS
+- <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/70/Font_Awesome_5_brands_node-js.svg/512px-Font_Awesome_5_brands_node-js.svg.png" alt="nodejs" style="width:20px;"/> NodeJS
 - <img src="https://simpleicons.org/icons/amazon.svg" alt="lambda" style="width:20px;"/> Amazon Lambda
 - <img src="https://simpleicons.org/icons/serverfault.svg" alt="serverless" style="width:20px;"/> Serverless Framework
 

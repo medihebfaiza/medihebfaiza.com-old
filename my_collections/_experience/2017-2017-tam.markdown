@@ -1,0 +1,19 @@
+---
+layout: post
+title: "Software Engineer Intern"
+company: "Transports de l'agglomération de Montpellier"
+website: "https://www.tam-voyages.com/index.asp"
+logo: "https://www.tam-voyages.com/img/Accueil/Logo_2015.png"
+period: "Jun 2017 - Aug 2017"
+location: "Montpellier, France"
+excerpt: "Photography posts are coming soon."
+date: 2017-01-01 08:00:00 +0100
+---
+
+<small>Jun 2017 - Aug 2017, Montpellier, France</small>
+<h2>Software Engineer Intern</h2>
+<img height="48" src="https://www.tam-voyages.com/img/Accueil/Logo_2015.png"></img></br>
+<a href="https://www.tam-voyages.com/index.asp">@Transports de Montpellier Mediterranée Métropole</a>
+<p>
+  I had an intership with Transports de l'agglomération de Montpellier (TaM), the public transport company in Montpellier, where I have designed and developed an ergonomic user interface for a psychomotor testing system for recruiting future tramway and bus drivers.
+</p>

@@ -33,6 +33,25 @@ port: 8080
 show_excerpts: true
 excerpt_separator: <!--more-->
 
+collections:
+  projects:
+    output: true
+  photography:
+    output: true
+  experience:
+    output: true
+  #-experience
+  #-skills
+  #-interests
+
+collections_dir: my_collections
+
+gems:
+  - jekyll-font-awesome-sass
+
+font-awesome:
+  assets: true
+
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
 # to override the default setting.
