@@ -29,5 +29,4 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
 # Font Awesome
-gem 'font-awesome-sass', '~> 4.4.0'
 gem 'jekyll-font-awesome-sass'
