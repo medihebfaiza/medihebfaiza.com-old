@@ -26,6 +26,9 @@ $content-width:    800px !default;
 $on-palm:          600px !default;
 $on-laptop:        800px !default;
 
+// For importing font-awesome
+$fa-font-path: "fonts/font-awesome/";
+
 // Use media queries like this:
 // @include media-query($on-palm) {
 //   .wrapper {
@@ -48,5 +51,6 @@ $on-laptop:        800px !default;
   "minima/base",
   "minima/layout",
   "minima/syntax-highlighting",
-  "custom"
-;
+  "custom",
+  "font-awesome";
+  
