@@ -49,8 +49,8 @@ collections_dir: my_collections
 plugins:
   - jekyll-font-awesome-sass
 
-font-awesome:
-  assets: true
+#font-awesome:
+#  assets: true
 
 # Exclude from processing.
 # The following items will not be processed, by default. Create a custom list
