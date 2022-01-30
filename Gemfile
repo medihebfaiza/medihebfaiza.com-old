@@ -28,5 +28,8 @@ gem "tzinfo-data", platforms: [:mingw, :mswin, :x64_mingw, :jruby]
 # Performance-booster for watching directories on Windows
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
 
+# Ruby Sass has reached end-of-life. Usin libsass instead
+gem 'sassc'
+
 # Font Awesome
 gem 'jekyll-font-awesome-sass'
